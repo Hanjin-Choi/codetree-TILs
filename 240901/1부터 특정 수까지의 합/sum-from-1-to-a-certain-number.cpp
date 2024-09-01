@@ -5,9 +5,9 @@ int sum(int n)
     int res=0;
     for (i=1;i<=n;i++)
     {
-        res+=i
+        res+=i;
     }
-    return res
+    return res;
 }
 int main() {
     // 여기에 코드를 작성해주세요.

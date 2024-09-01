@@ -6,7 +6,7 @@ int main() {
     int h,w;
     double b;
     cin >> h>>w;
-    b=(double)10000*w/h/h
+    b=(double)10000*w/h/h;
     
     cout <<fixed;
     cout.precision(2);

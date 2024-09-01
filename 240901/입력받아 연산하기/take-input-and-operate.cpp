@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // 여기에 코드를 작성해주세요.
+    int a=0,b=0;
+    cin>>a >>b;
+    cout <<a+87<<endl;
+    cout<<b%10;
+    return 0;
+}

@@ -10,7 +10,7 @@ int gcd(int n, int m)
         n=temp;
     } 
     if(n%m==0) return m;
-    else return gcd(m,n%m)
+    else return gcd(m,n%m);
 }
 
 int main() {
